@@ -1,13 +1,13 @@
 # Cloudflare 优选 IP
 
-**测试地**: 中国四川联通  
+**测试地点**: China  
 **更新频率**: 每半小时自动更新  
-**本次更新**: 2026-05-07 19:27:50
+**本次更新**: 2026-05-12 19:50:30
 
 ## 订阅链接
 
-- 高速优选：`https://raw.githubusercontent.com/HandsomeMJZ/cfip/refs/heads/main/best_ips.txt`
-- 所有可用：`https://raw.githubusercontent.com/HandsomeMJZ/cfip/refs/heads/main/full_ips.txt`
+- 高速优选：`https://raw.githubusercontent.com/hzt1989/hzt/refs/heads/main/best_ips.txt`
+- 所有可用：`https://raw.githubusercontent.com/hzt1989/hzt/refs/heads/main/full_ips.txt`
 
 ## 使用方法
 
